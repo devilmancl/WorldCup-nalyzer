@@ -54,12 +54,11 @@
         {"JAPON": 2, "ALEMANIA": 1},
         {"ESPANA": 7, "COSTA_RICA": 0},
         {"JAPON": 0, "COSTA_RICA": 1},
-        {"ESPANA": 1, "ALEMANIA": 1}
+        {"ESPANA": 1, "ALEMANIA": 1},
+        {"JAPON": 2, "ESPANA": 1},
+        {"COSTA_RICA": 2, "ALEMANIA": 4}
       ],
-      "predictions": [
-        {"JAPON": 0, "ESPANA": 2},
-        {"COSTA_RICA": 0, "ALEMANIA": 1}
-      ]
+      "predictions": []
     },
     "F": {
       "teams": ["CROACIA", "BELGICA", "CANADA", "MARRUECOS"],
@@ -67,12 +66,11 @@
         {"BELGICA": 1, "CANADA": 0},
         {"CROACIA": 0, "MARRUECOS": 0},
         {"BELGICA": 0, "MARRUECOS": 2},
-        {"CROACIA": 4, "CANADA": 1}
+        {"CROACIA": 4, "CANADA": 1},
+        {"CROACIA": 0, "BELGICA": 0},
+        {"CANADA": 1, "MARRUECOS": 2}
       ],
-      "predictions": [
-        {"CROACIA": 2, "BELGICA": 1},
-        {"CANADA": 0, "MARRUECOS": 1}
-      ]
+      "predictions": []
     },
     "G": {
       "teams": ["SUIZA", "CAMERUN", "BRAZIL", "SERBIA"],

@@ -167,82 +167,82 @@
     {
       "group": "E",
       "classified": [
-        "ESPANA",
-        "ALEMANIA"
+        "JAPON",
+        "ESPANA"
       ],
       "table": [
         {
-          "name": "ESPANA",
-          "points": 7,
-          "goals_difference": 9,
+          "name": "JAPON",
+          "points": 6,
+          "goals_difference": 1,
           "games_played": 3,
-          "goals": 10,
-          "goals_received": 1
+          "goals": 4,
+          "goals_received": 3
+        },
+        {
+          "name": "ESPANA",
+          "points": 4,
+          "goals_difference": 6,
+          "games_played": 3,
+          "goals": 9,
+          "goals_received": 3
         },
         {
           "name": "ALEMANIA",
           "points": 4,
-          "goals_difference": 0,
+          "goals_difference": 1,
           "games_played": 3,
-          "goals": 3,
-          "goals_received": 3
-        },
-        {
-          "name": "JAPON",
-          "points": 3,
-          "goals_difference": -2,
-          "games_played": 3,
-          "goals": 2,
-          "goals_received": 4
+          "goals": 6,
+          "goals_received": 5
         },
         {
           "name": "COSTA_RICA",
           "points": 3,
-          "goals_difference": -7,
+          "goals_difference": -8,
           "games_played": 3,
-          "goals": 1,
-          "goals_received": 8
+          "goals": 3,
+          "goals_received": 11
         }
       ]
     },
     {
       "group": "F",
       "classified": [
-        "CROACIA",
-        "MARRUECOS"
+        "MARRUECOS",
+        "CROACIA"
       ],
       "table": [
-        {
-          "name": "CROACIA",
-          "points": 7,
-          "goals_difference": 4,
-          "games_played": 3,
-          "goals": 6,
-          "goals_received": 2
-        },
         {
           "name": "MARRUECOS",
           "points": 7,
           "goals_difference": 3,
           "games_played": 3,
-          "goals": 3,
-          "goals_received": 0
+          "goals": 4,
+          "goals_received": 1
+        },
+        {
+          "name": "CROACIA",
+          "points": 5,
+          "goals_difference": 3,
+          "games_played": 3,
+          "goals": 4,
+          "goals_received": 1
         },
         {
           "name": "BELGICA",
-          "points": 3,
-          "goals_difference": -2,
+          "points": 4,
+          "goals_difference": -1,
           "games_played": 3,
-          "goals": 2,
-          "goals_received": 4
+          "goals": 1,
+          "goals_received": 2
         },
         {
           "name": "CANADA",
           "points": 0,
           "goals_difference": -5,
           "games_played": 3,
-          "goals": 1,
-          "goals_received": 6
+          "goals": 2,
+          "goals_received": 7
         }
       ]
     },
@@ -393,11 +393,11 @@
     {
       "match": "OCT_5",
       "teams": {
-        "ESPANA": {
+        "JAPON": {
           "goals": 0,
           "penalties": 0
         },
-        "MARRUECOS": {
+        "CROACIA": {
           "goals": 0,
           "penalties": 0
         }
@@ -423,11 +423,11 @@
     {
       "match": "OCT_7",
       "teams": {
-        "CROACIA": {
+        "MARRUECOS": {
           "goals": 0,
           "penalties": 0
         },
-        "ALEMANIA": {
+        "ESPANA": {
           "goals": 0,
           "penalties": 0
         }

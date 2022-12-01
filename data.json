@@ -1,0 +1,130 @@
+{
+  "groups": {
+    "A": {
+      "teams": ["HOLANDA", "QATAR", "ECUADOR", "SENEGAL"],
+      "matches": [
+        {"QATAR": 0, "ECUADOR": 2},
+        {"HOLANDA": 2, "SENEGAL": 0},
+        {"HOLANDA": 1, "ECUADOR": 1},
+        {"QATAR": 1, "SENEGAL": 3},
+        {"HOLANDA": 2, "QATAR": 0},
+        {"ECUADOR": 1, "SENEGAL": 2}
+      ],
+      "predictions": []
+    },
+    "B": {
+      "teams": ["IRAN", "INGLATERRA", "USA", "GALES"],
+      "matches": [
+        {"IRAN":  2, "INGLATERRA":  6},
+        {"USA": 1, "GALES": 1},
+        {"IRAN": 2, "GALES": 0},
+        {"USA": 0, "INGLATERRA": 0},
+        {"IRAN": 0, "USA": 1},
+        {"GALES": 0, "INGLATERRA": 3}
+      ],
+      "predictions": []
+    },
+    "C": {
+      "teams": ["POLONIA", "ARGENTINA", "ARABIA_SAUDITA", "MEXICO"],
+      "matches": [
+        {"ARABIA_SAUDITA": 2, "ARGENTINA": 1},
+        {"POLONIA": 0, "MEXICO": 0},
+        {"ARGENTINA": 2, "MEXICO":  0},
+        {"ARABIA_SAUDITA": 0, "POLONIA": 2},
+        {"POLONIA":  0, "ARGENTINA": 2},
+        {"ARABIA_SAUDITA": 1, "MEXICO": 2}
+      ],
+      "predictions": []
+    },
+    "D": {
+      "teams": ["TUNEZ", "FRANCIA", "AUSTRALIA", "DINAMARCA"],
+      "matches": [
+        {"TUNEZ": 0, "DINAMARCA": 0},
+        {"AUSTRALIA": 1, "FRANCIA": 4},
+        {"TUNEZ": 0, "AUSTRALIA": 1},
+        {"FRANCIA": 2, "DINAMARCA": 1},
+        {"TUNEZ": 1, "FRANCIA": 0},
+        {"AUSTRALIA": 1, "DINAMARCA": 0}
+      ],
+      "predictions": []
+    },
+    "E": {
+      "teams": ["JAPON", "ESPANA", "COSTA_RICA", "ALEMANIA"],
+      "matches": [
+        {"JAPON": 2, "ALEMANIA": 1},
+        {"ESPANA": 7, "COSTA_RICA": 0},
+        {"JAPON": 0, "COSTA_RICA": 1},
+        {"ESPANA": 1, "ALEMANIA": 1}
+      ],
+      "predictions": [
+        {"JAPON": 0, "ESPANA": 2},
+        {"COSTA_RICA": 0, "ALEMANIA": 1}
+      ]
+    },
+    "F": {
+      "teams": ["CROACIA", "BELGICA", "CANADA", "MARRUECOS"],
+      "matches": [
+        {"BELGICA": 1, "CANADA": 0},
+        {"CROACIA": 0, "MARRUECOS": 0},
+        {"BELGICA": 0, "MARRUECOS": 2},
+        {"CROACIA": 4, "CANADA": 1}
+      ],
+      "predictions": [
+        {"CROACIA": 2, "BELGICA": 1},
+        {"CANADA": 0, "MARRUECOS": 1}
+      ]
+    },
+    "G": {
+      "teams": ["SUIZA", "CAMERUN", "BRAZIL", "SERBIA"],
+      "matches": [
+        {"SUIZA": 1, "CAMERUN": 0},
+        {"BRAZIL": 2, "SERBIA": 0},
+        {"CAMERUN": 3, "SERBIA": 3},
+        {"SUIZA": 0, "BRAZIL": 1}
+      ],
+      "predictions": [
+        {"SUIZA": 1, "SERBIA": 0},
+        {"CAMERUN": 0, "BRAZIL": 2}
+      ]
+    },
+    "H": {
+      "teams": ["URUGUAY", "COREA_SUR", "PORTUGAL", "GHANA"],
+      "matches": [
+        {"URUGUAY": 0, "COREA_SUR": 0},
+        {"PORTUGAL": 3, "GHANA": 2},
+        {"COREA_SUR": 2, "GHANA": 3},
+        {"URUGUAY": 0, "PORTUGAL": 2}
+      ],
+      "predictions": [
+        {"URUGUAY": 1, "GHANA": 0},
+        {"COREA_SUR": 0, "PORTUGAL": 2}
+      ]
+    }
+  },
+  "playoffs": {
+    "definitions": {
+      "OCT_1": ["GROUP_A_1", "GROUP_B_2"],
+      "OCT_2": ["GROUP_C_1", "GROUP_D_2"],
+      "OCT_3": ["GROUP_D_1", "GROUP_C_2"],
+      "OCT_4": ["GROUP_B_1", "GROUP_A_2"],
+      "OCT_5": ["GROUP_E_1", "GROUP_F_2"],
+      "OCT_6": ["GROUP_G_1", "GROUP_H_2"],
+      "OCT_7": ["GROUP_F_1", "GROUP_E_2"],
+      "OCT_8": ["GROUP_H_1", "GROUP_G_2"],
+      "QUA_1": ["OCT_1", "OCT_2"],
+      "QUA_2": ["OCT_5", "OCT_6"],
+      "QUA_3": ["OCT_3", "OCT_4"],
+      "QUA_4": ["OCT_7", "OCT_8"],
+      "SEM_1": ["QUA_1", "QUA_2"],
+      "SEM_2": ["QUA_3", "QUA_4"],
+      "FINAL": ["SEM_1", "SEM_2"]
+    },
+    "predictions": {
+      "OCT_1": {"HOLANDA": {"goals": 1, "penalties": 0}, "USA": {"goals": 0, "penalties": 0}},
+      "OCT_2": {"ARGENTINA": {"goals": 3, "penalties": 0}, "AUSTRALIA": {"goals": 0, "penalties": 0}},
+      "OCT_3": {"FRANCIA": {"goals": 2,"penalties": 0}, "POLONIA": {"goals": 0, "penalties": 0}},
+      "OCT_4": {"INGLATERRA": {"goals": 1, "penalties": 0}, "SENEGAL": {"goals": 0, "penalties": 0}}
+    },
+    "results": {}
+  }
+}

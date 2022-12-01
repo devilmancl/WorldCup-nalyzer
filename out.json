@@ -1,0 +1,559 @@
+{
+  "groups": [
+    {
+      "group": "A",
+      "classified": [
+        "HOLANDA",
+        "SENEGAL"
+      ],
+      "table": [
+        {
+          "name": "HOLANDA",
+          "points": 7,
+          "goals_difference": 4,
+          "games_played": 3,
+          "goals": 5,
+          "goals_received": 1
+        },
+        {
+          "name": "SENEGAL",
+          "points": 6,
+          "goals_difference": 1,
+          "games_played": 3,
+          "goals": 5,
+          "goals_received": 4
+        },
+        {
+          "name": "ECUADOR",
+          "points": 4,
+          "goals_difference": 1,
+          "games_played": 3,
+          "goals": 4,
+          "goals_received": 3
+        },
+        {
+          "name": "QATAR",
+          "points": 0,
+          "goals_difference": -6,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 7
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "classified": [
+        "INGLATERRA",
+        "USA"
+      ],
+      "table": [
+        {
+          "name": "INGLATERRA",
+          "points": 7,
+          "goals_difference": 7,
+          "games_played": 3,
+          "goals": 9,
+          "goals_received": 2
+        },
+        {
+          "name": "USA",
+          "points": 5,
+          "goals_difference": 1,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 1
+        },
+        {
+          "name": "IRAN",
+          "points": 3,
+          "goals_difference": -3,
+          "games_played": 3,
+          "goals": 4,
+          "goals_received": 7
+        },
+        {
+          "name": "GALES",
+          "points": 1,
+          "goals_difference": -5,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 6
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "classified": [
+        "ARGENTINA",
+        "POLONIA"
+      ],
+      "table": [
+        {
+          "name": "ARGENTINA",
+          "points": 6,
+          "goals_difference": 3,
+          "games_played": 3,
+          "goals": 5,
+          "goals_received": 2
+        },
+        {
+          "name": "POLONIA",
+          "points": 4,
+          "goals_difference": 0,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 2
+        },
+        {
+          "name": "MEXICO",
+          "points": 4,
+          "goals_difference": -1,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 3
+        },
+        {
+          "name": "ARABIA_SAUDITA",
+          "points": 3,
+          "goals_difference": -2,
+          "games_played": 3,
+          "goals": 3,
+          "goals_received": 5
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "classified": [
+        "FRANCIA",
+        "AUSTRALIA"
+      ],
+      "table": [
+        {
+          "name": "FRANCIA",
+          "points": 6,
+          "goals_difference": 3,
+          "games_played": 3,
+          "goals": 6,
+          "goals_received": 3
+        },
+        {
+          "name": "AUSTRALIA",
+          "points": 6,
+          "goals_difference": -1,
+          "games_played": 3,
+          "goals": 3,
+          "goals_received": 4
+        },
+        {
+          "name": "TUNEZ",
+          "points": 4,
+          "goals_difference": 0,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 1
+        },
+        {
+          "name": "DINAMARCA",
+          "points": 1,
+          "goals_difference": -2,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 3
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "classified": [
+        "ESPANA",
+        "ALEMANIA"
+      ],
+      "table": [
+        {
+          "name": "ESPANA",
+          "points": 7,
+          "goals_difference": 9,
+          "games_played": 3,
+          "goals": 10,
+          "goals_received": 1
+        },
+        {
+          "name": "ALEMANIA",
+          "points": 4,
+          "goals_difference": 0,
+          "games_played": 3,
+          "goals": 3,
+          "goals_received": 3
+        },
+        {
+          "name": "JAPON",
+          "points": 3,
+          "goals_difference": -2,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 4
+        },
+        {
+          "name": "COSTA_RICA",
+          "points": 3,
+          "goals_difference": -7,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 8
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "classified": [
+        "CROACIA",
+        "MARRUECOS"
+      ],
+      "table": [
+        {
+          "name": "CROACIA",
+          "points": 7,
+          "goals_difference": 4,
+          "games_played": 3,
+          "goals": 6,
+          "goals_received": 2
+        },
+        {
+          "name": "MARRUECOS",
+          "points": 7,
+          "goals_difference": 3,
+          "games_played": 3,
+          "goals": 3,
+          "goals_received": 0
+        },
+        {
+          "name": "BELGICA",
+          "points": 3,
+          "goals_difference": -2,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 4
+        },
+        {
+          "name": "CANADA",
+          "points": 0,
+          "goals_difference": -5,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 6
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "classified": [
+        "BRAZIL",
+        "SUIZA"
+      ],
+      "table": [
+        {
+          "name": "BRAZIL",
+          "points": 9,
+          "goals_difference": 5,
+          "games_played": 3,
+          "goals": 5,
+          "goals_received": 0
+        },
+        {
+          "name": "SUIZA",
+          "points": 6,
+          "goals_difference": 1,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 1
+        },
+        {
+          "name": "CAMERUN",
+          "points": 1,
+          "goals_difference": -3,
+          "games_played": 3,
+          "goals": 3,
+          "goals_received": 6
+        },
+        {
+          "name": "SERBIA",
+          "points": 1,
+          "goals_difference": -3,
+          "games_played": 3,
+          "goals": 3,
+          "goals_received": 6
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "classified": [
+        "PORTUGAL",
+        "URUGUAY"
+      ],
+      "table": [
+        {
+          "name": "PORTUGAL",
+          "points": 9,
+          "goals_difference": 5,
+          "games_played": 3,
+          "goals": 7,
+          "goals_received": 2
+        },
+        {
+          "name": "URUGUAY",
+          "points": 4,
+          "goals_difference": -1,
+          "games_played": 3,
+          "goals": 1,
+          "goals_received": 2
+        },
+        {
+          "name": "GHANA",
+          "points": 3,
+          "goals_difference": -1,
+          "games_played": 3,
+          "goals": 5,
+          "goals_received": 6
+        },
+        {
+          "name": "COREA_SUR",
+          "points": 1,
+          "goals_difference": -3,
+          "games_played": 3,
+          "goals": 2,
+          "goals_received": 5
+        }
+      ]
+    }
+  ],
+  "playoff": [
+    {
+      "match": "OCT_1",
+      "teams": {
+        "HOLANDA": {
+          "goals": 1,
+          "penalties": 0
+        },
+        "USA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": "HOLANDA",
+      "match_to_change": "QUA_1"
+    },
+    {
+      "match": "OCT_2",
+      "teams": {
+        "ARGENTINA": {
+          "goals": 3,
+          "penalties": 0
+        },
+        "AUSTRALIA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": "ARGENTINA",
+      "match_to_change": "QUA_1"
+    },
+    {
+      "match": "OCT_3",
+      "teams": {
+        "FRANCIA": {
+          "goals": 2,
+          "penalties": 0
+        },
+        "POLONIA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": "FRANCIA",
+      "match_to_change": "QUA_3"
+    },
+    {
+      "match": "OCT_4",
+      "teams": {
+        "INGLATERRA": {
+          "goals": 1,
+          "penalties": 0
+        },
+        "SENEGAL": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": "INGLATERRA",
+      "match_to_change": "QUA_3"
+    },
+    {
+      "match": "OCT_5",
+      "teams": {
+        "ESPANA": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "MARRUECOS": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "QUA_2"
+    },
+    {
+      "match": "OCT_6",
+      "teams": {
+        "BRAZIL": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "URUGUAY": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "QUA_2"
+    },
+    {
+      "match": "OCT_7",
+      "teams": {
+        "CROACIA": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "ALEMANIA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "QUA_4"
+    },
+    {
+      "match": "OCT_8",
+      "teams": {
+        "PORTUGAL": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "SUIZA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "QUA_4"
+    },
+    {
+      "match": "QUA_1",
+      "teams": {
+        "HOLANDA": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "ARGENTINA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "SEM_1"
+    },
+    {
+      "match": "QUA_2",
+      "teams": {
+        "OCT_5": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "OCT_6": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "SEM_1"
+    },
+    {
+      "match": "QUA_3",
+      "teams": {
+        "FRANCIA": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "INGLATERRA": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "SEM_2"
+    },
+    {
+      "match": "QUA_4",
+      "teams": {
+        "OCT_7": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "OCT_8": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "SEM_2"
+    },
+    {
+      "match": "SEM_1",
+      "teams": {
+        "QUA_1": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "QUA_2": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "FINAL"
+    },
+    {
+      "match": "SEM_2",
+      "teams": {
+        "QUA_3": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "QUA_4": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": "FINAL"
+    },
+    {
+      "match": "FINAL",
+      "teams": {
+        "SEM_1": {
+          "goals": 0,
+          "penalties": 0
+        },
+        "SEM_2": {
+          "goals": 0,
+          "penalties": 0
+        }
+      },
+      "winner": null,
+      "match_to_change": null
+    }
+  ]
+}

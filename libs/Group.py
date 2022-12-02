@@ -19,7 +19,7 @@ class Group:
 
     @staticmethod
     def cmp_table_row(table_row_1):
-        return table_row_1["points"] * 1000 + table_row_1["goals_difference"]
+        return table_row_1["points"] * 10000 + table_row_1["goals_difference"] * 100 + table_row_1["goals"]
 
     def get_table(self):
         table_rows = []

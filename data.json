@@ -91,12 +91,11 @@
         {"URUGUAY": 0, "COREA_SUR": 0},
         {"PORTUGAL": 3, "GHANA": 2},
         {"COREA_SUR": 2, "GHANA": 3},
-        {"URUGUAY": 0, "PORTUGAL": 2}
+        {"URUGUAY": 0, "PORTUGAL": 2},
+        {"URUGUAY": 2, "GHANA": 0},
+        {"COREA_SUR": 2, "PORTUGAL": 1}
       ],
-      "predictions": [
-        {"URUGUAY": 1, "GHANA": 0},
-        {"COREA_SUR": 0, "PORTUGAL": 2}
-      ]
+      "predictions": []
     }
   },
   "playoffs": {

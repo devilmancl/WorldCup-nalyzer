@@ -78,12 +78,11 @@
         {"SUIZA": 1, "CAMERUN": 0},
         {"BRAZIL": 2, "SERBIA": 0},
         {"CAMERUN": 3, "SERBIA": 3},
-        {"SUIZA": 0, "BRAZIL": 1}
+        {"SUIZA": 0, "BRAZIL": 1},
+        {"SUIZA": 3, "SERBIA": 2},
+        {"CAMERUN": 1, "BRAZIL": 0}
       ],
-      "predictions": [
-        {"SUIZA": 1, "SERBIA": 0},
-        {"CAMERUN": 0, "BRAZIL": 2}
-      ]
+      "predictions": []
     },
     "H": {
       "teams": ["URUGUAY", "COREA_SUR", "PORTUGAL", "GHANA"],
@@ -117,11 +116,16 @@
       "FINAL": ["SEM_1", "SEM_2"]
     },
     "predictions": {
-      "OCT_1": {"HOLANDA": {"goals": 1, "penalties": 0}, "USA": {"goals": 0, "penalties": 0}},
-      "OCT_2": {"ARGENTINA": {"goals": 3, "penalties": 0}, "AUSTRALIA": {"goals": 0, "penalties": 0}},
-      "OCT_3": {"FRANCIA": {"goals": 2,"penalties": 0}, "POLONIA": {"goals": 0, "penalties": 0}},
-      "OCT_4": {"INGLATERRA": {"goals": 1, "penalties": 0}, "SENEGAL": {"goals": 0, "penalties": 0}}
+      "OCT_5": {"JAPON": {"goals": 1, "penalties": 0}, "CROACIA": {"goals": 0, "penalties": 0}},
+      "OCT_6": {"BRAZIL": {"goals": 3, "penalties": 0}, "COREA_SUR": {"goals": 0, "penalties": 0}},
+      "OCT_7": {"MARRUECOS": {"goals": 0, "penalties": 0}, "ESPANA": {"goals": 1, "penalties": 0}},
+      "OCT_8": {"PORTUGAL": {"goals": 0, "penalties": 0}, "SUIZA":  {"goals": 1, "penalties": 0}}
     },
-    "results": {}
+    "results": {
+      "OCT_1": {"HOLANDA": {"goals": 3, "penalties": 0}, "USA": {"goals": 1, "penalties": 0}},
+      "OCT_2": {"ARGENTINA": {"goals": 2, "penalties": 0}, "AUSTRALIA": {"goals": 1, "penalties": 0}},
+      "OCT_3": {"FRANCIA": {"goals": 3,"penalties": 0}, "POLONIA": {"goals": 1, "penalties": 0}},
+      "OCT_4": {"INGLATERRA": {"goals": 3, "penalties": 0}, "SENEGAL": {"goals": 0, "penalties": 0}}
+    }
   }
 }

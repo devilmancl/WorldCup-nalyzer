@@ -255,35 +255,35 @@
       "table": [
         {
           "name": "BRAZIL",
-          "points": 9,
-          "goals_difference": 5,
+          "points": 6,
+          "goals_difference": 2,
           "games_played": 3,
-          "goals": 5,
-          "goals_received": 0
+          "goals": 3,
+          "goals_received": 1
         },
         {
           "name": "SUIZA",
           "points": 6,
           "goals_difference": 1,
           "games_played": 3,
-          "goals": 2,
-          "goals_received": 1
+          "goals": 4,
+          "goals_received": 3
         },
         {
           "name": "CAMERUN",
-          "points": 1,
-          "goals_difference": -3,
+          "points": 4,
+          "goals_difference": 0,
           "games_played": 3,
-          "goals": 3,
-          "goals_received": 6
+          "goals": 4,
+          "goals_received": 4
         },
         {
           "name": "SERBIA",
           "points": 1,
           "goals_difference": -3,
           "games_played": 3,
-          "goals": 3,
-          "goals_received": 6
+          "goals": 5,
+          "goals_received": 8
         }
       ]
     },
@@ -334,11 +334,11 @@
       "match": "OCT_1",
       "teams": {
         "HOLANDA": {
-          "goals": 1,
+          "goals": 3,
           "penalties": 0
         },
         "USA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
@@ -349,11 +349,11 @@
       "match": "OCT_2",
       "teams": {
         "ARGENTINA": {
-          "goals": 3,
+          "goals": 2,
           "penalties": 0
         },
         "AUSTRALIA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
@@ -364,11 +364,11 @@
       "match": "OCT_3",
       "teams": {
         "FRANCIA": {
-          "goals": 2,
+          "goals": 3,
           "penalties": 0
         },
         "POLONIA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
@@ -379,7 +379,7 @@
       "match": "OCT_4",
       "teams": {
         "INGLATERRA": {
-          "goals": 1,
+          "goals": 3,
           "penalties": 0
         },
         "SENEGAL": {
@@ -394,7 +394,7 @@
       "match": "OCT_5",
       "teams": {
         "JAPON": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         },
         "CROACIA": {
@@ -402,14 +402,14 @@
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "JAPON",
       "match_to_change": "QUA_2"
     },
     {
       "match": "OCT_6",
       "teams": {
         "BRAZIL": {
-          "goals": 0,
+          "goals": 3,
           "penalties": 0
         },
         "COREA_SUR": {
@@ -417,7 +417,7 @@
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "BRAZIL",
       "match_to_change": "QUA_2"
     },
     {
@@ -428,11 +428,11 @@
           "penalties": 0
         },
         "ESPANA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "ESPANA",
       "match_to_change": "QUA_4"
     },
     {
@@ -443,11 +443,11 @@
           "penalties": 0
         },
         "SUIZA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "SUIZA",
       "match_to_change": "QUA_4"
     },
     {
@@ -468,11 +468,11 @@
     {
       "match": "QUA_2",
       "teams": {
-        "OCT_5": {
+        "JAPON": {
           "goals": 0,
           "penalties": 0
         },
-        "OCT_6": {
+        "BRAZIL": {
           "goals": 0,
           "penalties": 0
         }
@@ -498,11 +498,11 @@
     {
       "match": "QUA_4",
       "teams": {
-        "OCT_7": {
+        "ESPANA": {
           "goals": 0,
           "penalties": 0
         },
-        "OCT_8": {
+        "SUIZA": {
           "goals": 0,
           "penalties": 0
         }

@@ -116,8 +116,6 @@
       "FINAL": ["SEM_1", "SEM_2"]
     },
     "predictions": {
-      "OCT_5": {"JAPON": {"goals": 1, "penalties": 0}, "CROACIA": {"goals": 0, "penalties": 0}},
-      "OCT_6": {"BRAZIL": {"goals": 3, "penalties": 0}, "COREA_SUR": {"goals": 0, "penalties": 0}},
       "OCT_7": {"MARRUECOS": {"goals": 0, "penalties": 0}, "ESPANA": {"goals": 1, "penalties": 0}},
       "OCT_8": {"PORTUGAL": {"goals": 0, "penalties": 0}, "SUIZA":  {"goals": 1, "penalties": 0}}
     },
@@ -125,7 +123,9 @@
       "OCT_1": {"HOLANDA": {"goals": 3, "penalties": 0}, "USA": {"goals": 1, "penalties": 0}},
       "OCT_2": {"ARGENTINA": {"goals": 2, "penalties": 0}, "AUSTRALIA": {"goals": 1, "penalties": 0}},
       "OCT_3": {"FRANCIA": {"goals": 3,"penalties": 0}, "POLONIA": {"goals": 1, "penalties": 0}},
-      "OCT_4": {"INGLATERRA": {"goals": 3, "penalties": 0}, "SENEGAL": {"goals": 0, "penalties": 0}}
+      "OCT_4": {"INGLATERRA": {"goals": 3, "penalties": 0}, "SENEGAL": {"goals": 0, "penalties": 0}},
+      "OCT_5": {"JAPON": {"goals": 1, "penalties": 1}, "CROACIA": {"goals": 3, "penalties": 0}},
+      "OCT_6": {"BRAZIL": {"goals": 4, "penalties": 0}, "COREA_SUR": {"goals": 1, "penalties": 0}}
     }
   }
 }

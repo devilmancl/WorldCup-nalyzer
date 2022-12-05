@@ -395,25 +395,25 @@
       "teams": {
         "JAPON": {
           "goals": 1,
-          "penalties": 0
+          "penalties": 1
         },
         "CROACIA": {
-          "goals": 0,
+          "goals": 3,
           "penalties": 0
         }
       },
-      "winner": "JAPON",
+      "winner": "CROACIA",
       "match_to_change": "QUA_2"
     },
     {
       "match": "OCT_6",
       "teams": {
         "BRAZIL": {
-          "goals": 3,
+          "goals": 4,
           "penalties": 0
         },
         "COREA_SUR": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
@@ -468,7 +468,7 @@
     {
       "match": "QUA_2",
       "teams": {
-        "JAPON": {
+        "CROACIA": {
           "goals": 0,
           "penalties": 0
         },

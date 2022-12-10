@@ -425,21 +425,21 @@
       "teams": {
         "MARRUECOS": {
           "goals": 0,
-          "penalties": 0
+          "penalties": 3
         },
         "ESPANA": {
-          "goals": 1,
+          "goals": 0,
           "penalties": 0
         }
       },
-      "winner": "ESPANA",
+      "winner": "MARRUECOS",
       "match_to_change": "QUA_4"
     },
     {
       "match": "OCT_8",
       "teams": {
         "PORTUGAL": {
-          "goals": 0,
+          "goals": 6,
           "penalties": 0
         },
         "SUIZA": {
@@ -447,44 +447,44 @@
           "penalties": 0
         }
       },
-      "winner": "SUIZA",
+      "winner": "PORTUGAL",
       "match_to_change": "QUA_4"
     },
     {
       "match": "QUA_1",
       "teams": {
         "HOLANDA": {
-          "goals": 0,
-          "penalties": 0
+          "goals": 2,
+          "penalties": 3
         },
         "ARGENTINA": {
-          "goals": 0,
-          "penalties": 0
+          "goals": 2,
+          "penalties": 4
         }
       },
-      "winner": null,
+      "winner": "ARGENTINA",
       "match_to_change": "SEM_1"
     },
     {
       "match": "QUA_2",
       "teams": {
         "CROACIA": {
-          "goals": 0,
-          "penalties": 0
+          "goals": 1,
+          "penalties": 4
         },
         "BRAZIL": {
-          "goals": 0,
-          "penalties": 0
+          "goals": 1,
+          "penalties": 2
         }
       },
-      "winner": null,
+      "winner": "CROACIA",
       "match_to_change": "SEM_1"
     },
     {
       "match": "QUA_3",
       "teams": {
         "FRANCIA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         },
         "INGLATERRA": {
@@ -492,47 +492,47 @@
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "FRANCIA",
       "match_to_change": "SEM_2"
     },
     {
       "match": "QUA_4",
       "teams": {
-        "ESPANA": {
-          "goals": 0,
+        "MARRUECOS": {
+          "goals": 1,
           "penalties": 0
         },
-        "SUIZA": {
+        "PORTUGAL": {
           "goals": 0,
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "MARRUECOS",
       "match_to_change": "SEM_2"
     },
     {
       "match": "SEM_1",
       "teams": {
-        "QUA_1": {
-          "goals": 0,
+        "ARGENTINA": {
+          "goals": 1,
           "penalties": 0
         },
-        "QUA_2": {
+        "CROACIA": {
           "goals": 0,
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "ARGENTINA",
       "match_to_change": "FINAL"
     },
     {
       "match": "SEM_2",
       "teams": {
-        "QUA_3": {
+        "FRANCIA": {
           "goals": 0,
           "penalties": 0
         },
-        "QUA_4": {
+        "MARRUECOS": {
           "goals": 0,
           "penalties": 0
         }
@@ -543,7 +543,7 @@
     {
       "match": "FINAL",
       "teams": {
-        "SEM_1": {
+        "ARGENTINA": {
           "goals": 0,
           "penalties": 0
         },

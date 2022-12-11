@@ -484,11 +484,11 @@
       "match": "QUA_3",
       "teams": {
         "FRANCIA": {
-          "goals": 1,
+          "goals": 2,
           "penalties": 0
         },
         "INGLATERRA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         }
       },
@@ -529,7 +529,7 @@
       "match": "SEM_2",
       "teams": {
         "FRANCIA": {
-          "goals": 0,
+          "goals": 1,
           "penalties": 0
         },
         "MARRUECOS": {
@@ -537,7 +537,7 @@
           "penalties": 0
         }
       },
-      "winner": null,
+      "winner": "FRANCIA",
       "match_to_change": "FINAL"
     },
     {
@@ -547,7 +547,7 @@
           "goals": 0,
           "penalties": 0
         },
-        "SEM_2": {
+        "FRANCIA": {
           "goals": 0,
           "penalties": 0
         }

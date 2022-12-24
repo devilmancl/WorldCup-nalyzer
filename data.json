@@ -115,10 +115,7 @@
       "SEM_2": ["QUA_3", "QUA_4"],
       "FINAL": ["SEM_1", "SEM_2"]
     },
-    "predictions": {
-      "SEM_1": {"ARGENTINA": {"goals": 1, "penalties": 0}, "CROACIA": {"goals": 0, "penalties": 0}},
-      "SEM_2": {"FRANCIA": {"goals": 1, "penalties": 0}, "MARRUECOS": {"goals": 0, "penalties": 0}}
-    },
+    "predictions": {},
     "results": {
       "OCT_1": {"HOLANDA": {"goals": 3, "penalties": 0}, "USA": {"goals": 1, "penalties": 0}},
       "OCT_2": {"ARGENTINA": {"goals": 2, "penalties": 0}, "AUSTRALIA": {"goals": 1, "penalties": 0}},
@@ -131,7 +128,10 @@
       "QUA_1": {"HOLANDA":{"goals": 2, "penalties": 3}, "ARGENTINA": {"goals": 2, "penalties": 4}},
       "QUA_2": {"CROACIA": {"goals": 1, "penalties": 4}, "BRAZIL": {"goals": 1, "penalties": 2}},
       "QUA_3": {"FRANCIA": {"goals": 2, "penalties": 0}, "INGLATERRA": {"goals": 1, "penalties": 0}},
-      "QUA_4": {"MARRUECOS": {"goals": 1, "penalties": 0}, "PORTUGAL": {"goals": 0, "penalties": 0}}
+      "QUA_4": {"MARRUECOS": {"goals": 1, "penalties": 0}, "PORTUGAL": {"goals": 0, "penalties": 0}},
+      "SEM_1": {"ARGENTINA": {"goals": 3, "penalties": 0}, "CROACIA": {"goals": 0, "penalties": 0}},
+      "SEM_2": {"FRANCIA": {"goals": 2, "penalties": 0}, "MARRUECOS": {"goals": 0, "penalties": 0}},
+      "FINAL": {"ARGENTINA": {"goals": 3, "penalties": 4}, "FRANCIA": {"goals": 3, "penalties": 2}}
     }
   }
 }
